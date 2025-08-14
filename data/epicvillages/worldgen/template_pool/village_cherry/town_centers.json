@@ -1,0 +1,13 @@
+{
+	"name": "epicvillages:village_cherry/town_centers",
+	"fallback": "minecraft:empty",
+	"elements": [{
+		"weight": 1,
+		"element": {
+			"location": "epicvillages:village_cherry/town_centers/epichouse",
+			"processors": "minecraft:empty",
+			"projection": "rigid",
+			"element_type": "minecraft:single_pool_element"
+		}
+	}]
+}
